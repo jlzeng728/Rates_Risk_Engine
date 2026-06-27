@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+
+# R project-local package library (recreate with r/install_packages.R)
+r/.Rlib/
+
+
+src/report.py
+
+# OS
+.DS_Store
+Thumbs.db
