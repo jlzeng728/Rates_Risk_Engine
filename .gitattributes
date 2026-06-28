@@ -1,0 +1,5 @@
+# Refine GitHub's language bar to reflect the real source (Python / R / SQL).
+# The demo notebook embeds large image outputs and would otherwise dominate the
+# stats; Markdown is prose. Exclude both from language statistics.
+*.ipynb linguist-documentation
+*.md    linguist-documentation
